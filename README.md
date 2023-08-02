@@ -1,2 +1,1 @@
-# ITE-351_NEW-VENTURE-CREATION
-CAR EXHAUST FILTRATION DEVICE
+Breeza Car Exhaust Filtration is a machine that filters and purifies elements emitted from the engine of a vehicle through the exhaust by filtering the toxic carbon into ash and converts other toxic gas into liquid by condensation process. It also includes a device that detects if the filter is clogged, the storage is full, the condenser is empty, and if the device is still working properly. 
